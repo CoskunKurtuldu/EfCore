@@ -1,0 +1,9 @@
+C:\NetCoreDenemeler\EfCore\EfCore.Entity\bin\Debug\netcoreapp2.2\EfCore.Entity.deps.json
+C:\NetCoreDenemeler\EfCore\EfCore.Entity\bin\Debug\netcoreapp2.2\EfCore.Entity.dll
+C:\NetCoreDenemeler\EfCore\EfCore.Entity\obj\Debug\netcoreapp2.2\EfCore.Entity.csprojAssemblyReference.cache
+C:\NetCoreDenemeler\EfCore\EfCore.Entity\obj\Debug\netcoreapp2.2\EfCore.Entity.csproj.CoreCompileInputs.cache
+C:\NetCoreDenemeler\EfCore\EfCore.Entity\obj\Debug\netcoreapp2.2\EfCore.Entity.AssemblyInfoInputs.cache
+C:\NetCoreDenemeler\EfCore\EfCore.Entity\obj\Debug\netcoreapp2.2\EfCore.Entity.AssemblyInfo.cs
+C:\NetCoreDenemeler\EfCore\EfCore.Entity\bin\Debug\netcoreapp2.2\EfCore.Entity.pdb
+C:\NetCoreDenemeler\EfCore\EfCore.Entity\obj\Debug\netcoreapp2.2\EfCore.Entity.dll
+C:\NetCoreDenemeler\EfCore\EfCore.Entity\obj\Debug\netcoreapp2.2\EfCore.Entity.pdb

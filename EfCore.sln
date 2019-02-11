@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCore.Entity", "EfCore.Entity\EfCore.Entity.csproj", "{21C4F327-FC3F-406B-89F3-88ED973064FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCore.Web", "EfCore.Web\EfCore.Web.csproj", "{990522C0-941C-4289-A75A-4497A23C1301}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21C4F327-FC3F-406B-89F3-88ED973064FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21C4F327-FC3F-406B-89F3-88ED973064FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21C4F327-FC3F-406B-89F3-88ED973064FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21C4F327-FC3F-406B-89F3-88ED973064FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{990522C0-941C-4289-A75A-4497A23C1301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{990522C0-941C-4289-A75A-4497A23C1301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{990522C0-941C-4289-A75A-4497A23C1301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{990522C0-941C-4289-A75A-4497A23C1301}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12A445C7-A03F-41D9-A955-050078AA544B}
+	EndGlobalSection
+EndGlobal
